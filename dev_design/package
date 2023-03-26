@@ -1,0 +1,21 @@
+print_manager/
+  |- node_modules/
+  |- pages/
+  |  |-   _app.tsx
+  |- public/
+  |- routes/
+  |- services/
+  |- controllers/
+  |- models/
+  |  |- index.js
+  |  |- User.js
+  |  |- Family.js
+  |  |- Category.js
+  |  |- Photo.js
+  |- .env
+  |- .gitignore
+  |- next.config.js
+  |- package.json
+  |- README.md
+  |- tailwind.config.js
+  |- yarn.lock
